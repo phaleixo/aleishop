@@ -1,1 +1,1 @@
-# cordovaApps
+e-commerce app with Cordova 
